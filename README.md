@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning IT in IUT Grand Ouest Normandie
 - 📫 How to reach me :  marin.jabet@etu.unicaen.fr
 
+# Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mzrbt&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mzrbt&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzrbt&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 # The languages ​​I learn at the moment:
 ![C](https://img.shields.io/badge/Langage-C-blue)
 ![Java](https://img.shields.io/badge/Langage-Java-red)
