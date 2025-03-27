@@ -1,6 +1,6 @@
 # Introduction of myself
 - 👋 Hi, I’m @Mzrbt
-- 👀 I’m interested in IT / Sports / Chess / Music / Cryptography
+- 👀 I’m interested in IT / Sports / Chess / Music / Cryptography / Cybersecurity
 - 🌱 I’m currently learning IT in IUT Grand Ouest Normandie
 - 📫 How to reach me :  marin.jabet@etu.unicaen.fr
 
