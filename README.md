@@ -12,4 +12,4 @@
 ![JavaScript](https://img.shields.io/badge/Langage-JavaScript-yellow)
 ![SQL](https://img.shields.io/badge/Langage-SQL-green)
 ![Python](https://img.shields.io/badge/Langage-Python-white)
-![JavaFX](https://img.shields.io/badge/Langage-JavaFX-gray)
+![JavaFX](https://img.shields.io/badge/Langage-JavaFX-black)
