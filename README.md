@@ -4,10 +4,6 @@
 🌱 Currently studying **IT at IUT Grand Ouest Normandie.**  
 📫 Reach me at **marin.jabet@etu.unicaen.fr** 
 
-# Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mzrbt&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzrbt&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 # The languages ​​I learn at the moment:
 ![C](https://img.shields.io/badge/Langage-C-black)
 ![Java](https://img.shields.io/badge/Langage-Java-blueviolet)
