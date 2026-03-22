@@ -3,7 +3,7 @@
 <div align="center">
     <p>🎓 CS Degree - 2nd Year at <strong>IUT Grand Ouest Normandie</strong></p>
     <p>👀 Active and self-learning in <strong>Cybersecurity</strong></p>
-    <p>🏆 Competitor on CTF challenge with <a href="https://caenhackyou.fr">CaenHackYou</a></p>
+    <p>🏆 Competitor on CTF challenges with <a href="https://caenhackyou.fr">CaenHackYou</a></p>
 </div>
 
 ---
