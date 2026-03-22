@@ -46,7 +46,7 @@
 
 ---
 
-## CTF Plateforms
+## CTF Platforms
 
 <p align="center">
   <a href="https://www.root-me.org/Marin-Jabet"><img src="https://img.shields.io/badge/RootMe-Mzrbt-black?style=for-the-badge&logo=rootme&logoColor=white" /></a>
