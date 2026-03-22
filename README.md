@@ -8,7 +8,7 @@
 
 ---
 
-## The languages used
+## Languages used
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -46,7 +46,7 @@
 
 ---
 
-## Plateforms CTF
+## CTF Plateforms
 
 <p align="center">
   <a href="https://www.root-me.org/Marin-Jabet"><img src="https://img.shields.io/badge/RootMe-Mzrbt-black?style=for-the-badge&logo=rootme&logoColor=white" /></a>
