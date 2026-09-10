@@ -1,7 +1,7 @@
 <h1 align="center">Mzrbt</h1>  
 
 <div align="center">
-    <p>🎓 CS Degree - 2nd Year at <strong>IUT Grand Ouest Normandie</strong></p>
+    <p>🎓 CS Degree - 3rd Year at <strong>IUT Grand Ouest Normandie</strong></p>
     <p>👀 Active and self-learning in <strong>AI</strong> & <strong>Cybersecurity</strong></p>
     <p>🏆 Competitor on CTF challenges with <a href="https://caenhackyou.fr">CaenHackYou</a></p>
 </div>
